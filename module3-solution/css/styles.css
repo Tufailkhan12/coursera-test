@@ -1,0 +1,72 @@
+*
+{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
+#header-nav
+{
+	background-color:#8b8a8e;
+	
+	border:0;
+	border-radius:0;
+	border:2px black solid;
+}
+.nav-brand
+{
+	color:black;
+	font-weight:bold;
+	font-size:20px;
+}
+.navbar-toggle
+{
+
+	border:1px black solid;
+}
+.navbar-header button.navbar-toggle
+{
+	border:1px black solid;
+}
+.navbar-header .icon-bar
+{
+	border:2px black solid;
+	
+}
+h1.text-center
+{
+font-family:"Comic Sans MS", cursive, sans-serif;
+color:black;
+font-size:24px;
+font-weight:bold;
+margin-bottom:20px;
+
+	
+}
+h3
+{
+	text-align:center;
+    color:black;
+	font-weight:bold;
+	}
+#chicken-div,#suchi,#Beef
+{
+	background-color:grey;
+	color:black;
+	border:4px white solid;
+	
+}
+
+p.item
+{
+ color:black;
+	
+}
+li.text-center
+{
+	border:1px black solid;
+	height:50px;
+}
+#nav-list
+{
+	background-color:white;
+}
